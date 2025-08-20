@@ -6,7 +6,7 @@ Frontend Developer | React.js | JavaScript | Redux | HTML | CSS | Bootstrap
 
 🔭 Currently working on: Myntra Clone (React.js), Spotify Clone, Weather App
 
-🌱 Learning: Advanced React, Redux Toolkit
+🌱 Learning: Advanced React, Redux Toolkit,Node+Express Backend
 
 💬 Ask me about: React, JavaScript, UI Design
 
