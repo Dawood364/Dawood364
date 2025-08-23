@@ -13,7 +13,7 @@ Frontend Developer | React.js | JavaScript | Redux | HTML | CSS | Bootstrap
 ⚡ Fun fact: I love creating interactive UIs!
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dawood364&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=Dawood364&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=Dawood364&theme=radical&no-frame=false&margin-w=4)
 
 
 # 💻 Tech Stack:
